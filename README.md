@@ -1,4 +1,4 @@
-# Week_3_Perfume_Recommender_AI
+# Week_4_Perfume_Recommender_AI
 Project Name: AI-Driven Fragrance Discovery Engine 🧪🍊
 
 What it does: Uses Machine Learning (KNN) to analyze 24,000+ perfumes and find "Scent Soulmates" based on 1,600+ deep aromatic notes.
